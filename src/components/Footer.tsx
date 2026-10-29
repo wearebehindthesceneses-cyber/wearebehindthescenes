@@ -18,12 +18,12 @@ const Footer = () => {
         <div className="container mx-auto px-6">
           <div className="flex justify-center items-center gap-8 md:gap-12 mb-6">
             <img 
-              src="/lovable-uploads/logo-ue-fse.png" 
+              src="./lovable-uploads/logo-ue-fse.png" 
               alt="Cofinançat per la Unió Europea - FSE+" 
               className="h-14 md:h-20 w-auto object-contain"
             />
             <img 
-              src="/lovable-uploads/logo-departament-empresa.png" 
+              src="./lovable-uploads/logo-departament-empresa.png" 
               alt="Generalitat de Catalunya - Departament d'Empresa i Treball" 
               className="h-14 md:h-20 w-auto object-contain"
             />
@@ -41,7 +41,7 @@ const Footer = () => {
           {/* Logo & Description */}
           <div className="md:col-span-1">
             <div className="flex items-center mb-4">
-              <img src="/lovable-uploads/e8c46c1b-1a8d-411c-81db-3b75f2ef9243.png" alt="Behind the Scenes" className="h-10 w-auto" />
+              <img src="./lovable-uploads/e8c46c1b-1a8d-411c-81db-3b75f2ef9243.png" alt="Behind the Scenes" className="h-10 w-auto" />
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
               Where show meets business ✨
