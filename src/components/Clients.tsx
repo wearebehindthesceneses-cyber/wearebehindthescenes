@@ -12,31 +12,31 @@ const Clients = () => {
   const clients = [
     {
       name: 'Airotic Soirée',
-      logo: '/lovable-uploads/f563d0e5-b3b2-4467-b397-f84db0033e36.png'
+      logo: './lovable-uploads/f563d0e5-b3b2-4467-b397-f84db0033e36.png'
     },
     {
       name: 'Circaya',
-      logo: '/lovable-uploads/27ea0f9b-46f9-4dfc-9634-ad462c657563.png'
+      logo: './lovable-uploads/27ea0f9b-46f9-4dfc-9634-ad462c657563.png'
     },
     {
       name: 'Fury',
-      logo: '/lovable-uploads/86719183-8e95-458c-a9ee-1d443269a30b.png'
+      logo: './lovable-uploads/86719183-8e95-458c-a9ee-1d443269a30b.png'
     },
     {
       name: 'Tease',
-      logo: '/lovable-uploads/2c86cd0e-b9ef-4759-aead-6effbfbf1f12.png'
+      logo: './lovable-uploads/2c86cd0e-b9ef-4759-aead-6effbfbf1f12.png'
     },
     {
       name: 'Jackies',
-      logo: '/lovable-uploads/200db334-408f-4224-ae5d-da3f1a705e31.png'
+      logo: './lovable-uploads/200db334-408f-4224-ae5d-da3f1a705e31.png'
     },
     {
       name: 'El Dorado',
-      logo: '/lovable-uploads/73c65180-49de-4afa-8763-8e69a589a8ab.png'
+      logo: './lovable-uploads/73c65180-49de-4afa-8763-8e69a589a8ab.png'
     },
     {
       name: 'Festival El Desvarío',
-      logo: '/lovable-uploads/festival-desvario-logo.png'
+      logo: './lovable-uploads/festival-desvario-logo.png'
     }
   ];
 
