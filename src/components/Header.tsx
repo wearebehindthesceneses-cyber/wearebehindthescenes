@@ -23,7 +23,7 @@ const Header = () => {
         <nav className="flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">
-            <img src="/lovable-uploads/e8c46c1b-1a8d-411c-81db-3b75f2ef9243.png" alt="Behind the Scenes" className="h-10 w-auto" />
+            <img src="./lovable-uploads/e8c46c1b-1a8d-411c-81db-3b75f2ef9243.png" alt="Behind the Scenes" className="h-10 w-auto" />
           </div>
 
           {/* Desktop Navigation */}
