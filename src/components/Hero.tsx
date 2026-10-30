@@ -1,6 +1,6 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/button';
-import theaterCurtainBackground from '/wearebehindthescenes/src/assets/theater-curtain-plain.jpg';
+import theaterCurtainBackground from '@/assets/theater-curtain-plain.jpg';
 
 const Hero = () => {
   const { t } = useLanguage();
