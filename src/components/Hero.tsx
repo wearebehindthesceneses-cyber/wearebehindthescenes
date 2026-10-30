@@ -1,6 +1,5 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Button } from '@/components/ui/button';
-import theaterCurtainBackground from '@/assets/theater-curtain-plain.jpg';
 
 const Hero = () => {
   const { t } = useLanguage();
@@ -10,7 +9,7 @@ const Hero = () => {
       {/* Theater Curtain Background e*/}
       <div className="absolute inset-0 -z-20">
         <img
-          src={theaterCurtainBackground}
+          src='/wearebehindthescenes/src/assets/theater-curtain-plain.jpg'
           alt="Theater curtain background"
           className="w-full h-full object-cover brightness-150"
         />
