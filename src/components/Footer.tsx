@@ -18,12 +18,12 @@ const Footer = () => {
         <div className="container mx-auto px-6">
           <div className="flex justify-center items-center gap-8 md:gap-12 mb-6">
             <img 
-              src="/wearebehindthescenes/lovable-uploads/logo-ue-fse.png" 
+              src="./lovable-uploads/logo-ue-fse.png" 
               alt="Cofinançat per la Unió Europea - FSE+" 
               className="h-14 md:h-20 w-auto object-contain"
             />
             <img 
-              src="/wearebehindthescenes/lovable-uploads/logo-departament-empresa.png" 
+              src="./lovable-uploads/logo-departament-empresa.png" 
               alt="Generalitat de Catalunya - Departament d'Empresa i Treball" 
               className="h-14 md:h-20 w-auto object-contain"
             />
