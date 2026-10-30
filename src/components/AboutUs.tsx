@@ -1,6 +1,4 @@
 import { useLanguage } from '@/contexts/LanguageContext';
-import andreaPhoto from '/wearebehindthescenes/src/assets/andrea-pascual.png.asset.json';
-import albertPhoto from '/wearebehindthescenes/src/assets/albert-salmeron.png.asset.json';
 
 const AboutUs = () => {
   const { t } = useLanguage();
