@@ -9,7 +9,7 @@ const AboutUs = () => {
     {
       name: 'Andrea Pascual',
       roleKey: 'team.andrea.role',
-      image: andreaPhoto.url,
+      image: './lovable-uploads/d433e341-9050-4f03-be64-3950020f1738.png',
     },
     {
       name: 'Alexia Sánchez',
