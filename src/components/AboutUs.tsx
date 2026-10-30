@@ -1,6 +1,6 @@
 import { useLanguage } from '@/contexts/LanguageContext';
-import andreaPhoto from '@/assets/andrea-pascual.png.asset.json';
-import albertPhoto from '@/assets/albert-salmeron.png.asset.json';
+import andreaPhoto from '/wearebehindthescenes/src/assets/andrea-pascual.png.asset.json';
+import albertPhoto from '/wearebehindthescenes/src/assets/albert-salmeron.png.asset.json';
 
 const AboutUs = () => {
   const { t } = useLanguage();
@@ -14,7 +14,7 @@ const AboutUs = () => {
     {
       name: 'Alexia Sánchez',
       roleKey: 'team.alexia.role',
-      image: '/lovable-uploads/e36d2e3c-cdf3-4e5c-9fdd-3e788f837aa0.png',
+      image: './lovable-uploads/e36d2e3c-cdf3-4e5c-9fdd-3e788f837aa0.png',
     },
     {
       name: 'Albert Salmerón',
